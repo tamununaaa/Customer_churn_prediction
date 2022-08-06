@@ -1,5 +1,5 @@
 # CUSTOMER CHURN PREDICTION
-Customer Churn helps measure how and why are customers leaving a business. 
+Customer Churn helps measure how and why are customers are leaving a business. 
 For this project, a Telecom Customer Churn dataset is used from ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 and we build a Deep Learning Model for churn prediction. 
 
